@@ -7,3 +7,6 @@ There is also a Kaggle [competition](https://www.kaggle.com/c/house-prices-advan
 
 #### Wine
 The source is found [here](https://archive.ics.uci.edu/ml/datasets/wine).  
+
+#### Wine Quality
+The source is found [here](https://archive.ics.uci.edu/ml/datasets/wine+quality).
